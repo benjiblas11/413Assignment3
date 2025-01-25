@@ -1,0 +1,14 @@
+C:\Users\benji\OneDrive\Documents\IS CORE SEMESTER 2\IS 413\Programs\Assignment3_Blas\bin\Debug\net9.0\Assignment3_Blas.exe
+C:\Users\benji\OneDrive\Documents\IS CORE SEMESTER 2\IS 413\Programs\Assignment3_Blas\bin\Debug\net9.0\Assignment3_Blas.deps.json
+C:\Users\benji\OneDrive\Documents\IS CORE SEMESTER 2\IS 413\Programs\Assignment3_Blas\bin\Debug\net9.0\Assignment3_Blas.runtimeconfig.json
+C:\Users\benji\OneDrive\Documents\IS CORE SEMESTER 2\IS 413\Programs\Assignment3_Blas\bin\Debug\net9.0\Assignment3_Blas.dll
+C:\Users\benji\OneDrive\Documents\IS CORE SEMESTER 2\IS 413\Programs\Assignment3_Blas\bin\Debug\net9.0\Assignment3_Blas.pdb
+C:\Users\benji\OneDrive\Documents\IS CORE SEMESTER 2\IS 413\Programs\Assignment3_Blas\obj\Debug\net9.0\Assignment3_Blas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benji\OneDrive\Documents\IS CORE SEMESTER 2\IS 413\Programs\Assignment3_Blas\obj\Debug\net9.0\Assignment3_Blas.AssemblyInfoInputs.cache
+C:\Users\benji\OneDrive\Documents\IS CORE SEMESTER 2\IS 413\Programs\Assignment3_Blas\obj\Debug\net9.0\Assignment3_Blas.AssemblyInfo.cs
+C:\Users\benji\OneDrive\Documents\IS CORE SEMESTER 2\IS 413\Programs\Assignment3_Blas\obj\Debug\net9.0\Assignment3_Blas.csproj.CoreCompileInputs.cache
+C:\Users\benji\OneDrive\Documents\IS CORE SEMESTER 2\IS 413\Programs\Assignment3_Blas\obj\Debug\net9.0\Assignment3_Blas.dll
+C:\Users\benji\OneDrive\Documents\IS CORE SEMESTER 2\IS 413\Programs\Assignment3_Blas\obj\Debug\net9.0\refint\Assignment3_Blas.dll
+C:\Users\benji\OneDrive\Documents\IS CORE SEMESTER 2\IS 413\Programs\Assignment3_Blas\obj\Debug\net9.0\Assignment3_Blas.pdb
+C:\Users\benji\OneDrive\Documents\IS CORE SEMESTER 2\IS 413\Programs\Assignment3_Blas\obj\Debug\net9.0\Assignment3_Blas.genruntimeconfig.cache
+C:\Users\benji\OneDrive\Documents\IS CORE SEMESTER 2\IS 413\Programs\Assignment3_Blas\obj\Debug\net9.0\ref\Assignment3_Blas.dll
